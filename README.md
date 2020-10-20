@@ -1,5 +1,5 @@
 # hello-world
 
-Heyy!!!
+Heyy there!!!
 
-I like to work on python and angularJS.
+I would like to work on python and angularJS.
